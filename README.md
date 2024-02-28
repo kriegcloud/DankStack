@@ -10,12 +10,15 @@
   - casl
   - casbin
   - oso
-- Integrate 2FA
-- Integrate Security Keys (YubiKey) Fido2
-- Integrate WebAuthn
+- Integrate 2FA TOTP
+- Integrate WebAuthn Fido2
 - Integrate Redis cache
 - Integrate Email
   - react email
   - AWS SES
 - Integrate Vercel DNS
 - Integrate Multi-tenancy
+- Integrate Storybook
+- Integrate Mailhog
+- Integrate Sentry
+- 
