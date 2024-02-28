@@ -10,7 +10,8 @@
     "./input": "./src/input.tsx",
     "./label": "./src/label.tsx",
     "./theme": "./src/theme.tsx",
-    "./toast": "./src/toast.tsx"
+    "./toast": "./src/toast.tsx",
+    "./sparkles": "./src/sparkles.tsx"
   },
   "license": "MIT",
   "scripts": {
@@ -26,7 +27,13 @@
     "@radix-ui/react-icons": "^1.3.0",
     "@radix-ui/react-label": "^2.0.2",
     "@radix-ui/react-slot": "^1.0.2",
+    "@tsparticles/engine": "^3.3.0",
+    "@tsparticles/react": "^3.0.0",
+    "@tsparticles/slim": "^3.3.0",
+    "accordion": "^3.0.2",
     "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.0",
+    "framer-motion": "^11.0.6",
     "next-themes": "^0.2.1",
     "react-hook-form": "^7.50.1",
     "sonner": "^1.4.0",

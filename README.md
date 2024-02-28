@@ -5,7 +5,6 @@
 - Integrate Neon Postgres
 - Integrate Playwright
 - Integrate React Hook Form Components
-- Integrate ShadCN ui
 - Integrate OpenAI GPT-4
 - Integrate Access Control preferably ABAC
   - casl
